@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site is to help me learn and showcase some of the projects I'm trying to work on with different coding languages. If you want information on other things check here:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* [Horsey Run](https://horseyrun.com) is where I write about horse racing and horse sales semi consistently.
+* [Pedigree Productions](https://pedigreepro.net) is where I work. I write pedigrees for horse sales and small farms. If you are looking for information on that, click the link.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
