@@ -7,12 +7,10 @@ title: Home
 permalink: /
 ---
 
-## James Carney's Code
+This site isn't going to be too exciting. It's going to be a catch all for stuff I'm trying to learn and get better at. I'll post random things that I think will help me, but I don't really care what you think of them. I'm just posting them so I can hopefully find them again later.
 
-This isn't very exciting. It's just some random projects I've been working on that are pretty average.
+If you want to learn about something horse related, go to [Horsey Run](https://horseyrun.com) and if you want to buy some horse pedigrees, go to [Pedigree Productions](https://pedigreepro.net).
 
 If you like what you see, use it or tell me. I don't care. I'm not doing this for you. I'm doing it so I can learn.
 
-## James' life
-
-If I'm not putting code on here. I'm going to be talking about money or God or whatever I want to get off my chest. I'm not looking for validation. I'm looking for clarity and a way to get stuff off my chest.
+If you want to be nosey and look around, go for it. You are probably wasting your time.
