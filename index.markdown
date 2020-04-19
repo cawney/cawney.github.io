@@ -14,3 +14,7 @@ If you want to learn about something horse related, go to [Horsey Run](https://h
 If you like what you see, use it or tell me. I don't care. I'm not doing this for you. I'm doing it so I can learn.
 
 If you want to be nosey and look around, go for it. You are probably wasting your time.
+
+## Learn by teaching
+
+The blog is going to have a bunch of random stuff in it. There should be topics listed on areas that I've talked about. They are things I'm trying to learn. The best way to learn is to teach (at least I think so). So I'm going to try and teach things that I'm learning so I can make sure I actually know it.
